@@ -1,4 +1,4 @@
-package com.example.hellotoast;
+package com.example.hellotoastcodingchallenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 

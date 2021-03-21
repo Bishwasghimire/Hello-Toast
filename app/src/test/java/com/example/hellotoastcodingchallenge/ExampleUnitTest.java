@@ -1,4 +1,4 @@
-package com.example.hellotoast;
+package com.example.hellotoastcodingchallenge;
 
 import org.junit.Test;
 
